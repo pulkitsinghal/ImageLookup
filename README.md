@@ -11,3 +11,4 @@ ImageLookup
 6. Catalog owners should be able to bulk upload their data.
 7. Crawlers or connectors should be added by the community over time to collect trending apparel images from services like Pinterest or FashionSnoops or MyFdb while respecting any copyright or infringement clauses that may be put forth by such entities.
 8. Leverage machine learning for picking pitures and matching codes out of PDF catalogs when they aren't arranged one image at a time. For example: http://www.image-apparel-solutions.com/assets/1/Page/2012%20Image%20Apparel%20Solutions%20Catalog%20Final%20LR.pdf
+9. If end-users of an eCommerce or mobile platform want to contribute with the amatuer pitures they might take from their cameras then in addition to an API for that, there should also be some sort of vote up/down community curation system.
