@@ -10,3 +10,4 @@ ImageLookup
 5. Photographers should be able to upload product images and select a license that clearly indicates that they are OK with its distribution. They should also indicate that its their own work and does not belong to someone else.
 6. Catalog owners should be able to bulk upload their data.
 7. Crawlers or connectors should be added by the community over time to collect trending apparel images from services like Pinterest or FashionSnoops or MyFdb while respecting any copyright or infringement clauses that may be put forth by such entities.
+8. Leverage machine learning for picking pitures and matching codes out of PDF catalogs when they aren't arranged one image at a time. For example: http://www.image-apparel-solutions.com/assets/1/Page/2012%20Image%20Apparel%20Solutions%20Catalog%20Final%20LR.pdf
